@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/nav_battery</item>
+        <item>@drawable/nav_ewaste</item>
+        <item>@drawable/nav_glass</item>
+        <item>@drawable/nav_metal</item>
+        <item>@drawable/nav_paper</item>
+        <item>@drawable/nav_plastic</item>
+        <item>@drawable/nav_bulbs</item>
+    </array>
+    <array name="colors">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+    </array>
+</resources>

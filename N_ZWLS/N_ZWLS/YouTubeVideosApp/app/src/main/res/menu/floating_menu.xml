@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Recycling Centers"
+        android:id="@+id/navigation_centers"
+        android:icon="@drawable/nav_teamwork"
+        />
+
+    <item
+        android:title="Battery"
+        android:id="@+id/navigation_battery"
+        android:icon="@drawable/nav_battery"
+        />
+
+    <item
+        android:title="Bulbs"
+        android:id="@+id/navigation_bulbs"
+        android:icon="@drawable/nav_bulbs"
+        />
+
+    <item
+        android:title="E-waste"
+        android:id="@+id/navigation_ewaste"
+        android:icon="@drawable/nav_ewaste"
+        />
+
+    <item
+        android:title="Glass"
+        android:id="@+id/navigation_glass"
+        android:icon="@drawable/nav_glass"
+        />
+
+    <item
+        android:title="Metal"
+        android:id="@+id/navigation_metal"
+        android:icon="@drawable/nav_metal"
+        />
+
+    <item
+        android:title="Paper"
+        android:id="@+id/navigation_paper"
+        android:icon="@drawable/nav_paper"
+        />
+    <item
+        android:title="Plastic"
+        android:id="@+id/navigation_plastic"
+        android:icon="@drawable/nav_plastic"
+        />
+
+    <item
+        android:title="Your Performance"
+        android:id="@+id/navigation_performance"
+        android:icon="@drawable/nav_performance"
+        />
+
+
+</menu>
